@@ -1,13 +1,11 @@
 {
     "item": {
         "name": "BcReader",
-        "description": "你能找到的有史以来最隐蔽最安全最流畅的阅读器\n安卓客户端请前往https://www.bandbbs.cn/resources/4671/ 下载安装",
+        "description": "你能找到的有史以来最隐蔽最安全最流畅的阅读器！\n计算器电子书二合一 连续点击五次加号进入电子书页面！\n安卓客户端请前往https://www.bandbbs.cn/resources/4671/ 下载安装",
         "preview": [
             "preview1.png",
             "preview2.png",
-            "preview3.png",
-            "preview4.png",
-            "preview5.png"
+            "preview3.png"
         ],
         "icon": "logo.png",
         "source_url": "https://github.com/BeiChen-CN/BcReader",
@@ -26,3 +24,4 @@
     }
 
 }
+
